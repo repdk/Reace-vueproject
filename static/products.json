@@ -1,0 +1,92 @@
+{
+  "newArriavals": [
+      {
+          "id": 1,
+          "title": "Product 1",
+          "description": "Pull&Bear Crochet Back Playsuit",
+          "price": 47.10,
+          "img": "/static/product1.jpg"
+      },
+      {
+          "id": 2,
+          "title": "Product 2",
+          "description": "Pull&Bear Aztec Printed Jumpsuit",
+          "price": 54.20,
+          "img": "/static/product2.jpg"
+      },
+      {
+          "id": 3,
+          "title": "Product 3",
+          "description": "Pull&Bear Utility Detail Playsuit",
+          "price": 31.45,
+          "img": "/static/product3.jpg"
+      },
+      {
+          "id": 4,
+          "title": "Product 3",
+          "description": "Pull&Bear Denim Jacket",
+          "price": 77.87,
+          "img": "/static/product4.jpg"
+      }
+  ],
+  "topSellers": [
+    {
+        "id": 1,
+        "title": "Product 1",
+        "description": "Pull&Bear Denim Jacket",
+        "price": 77.87,
+        "img": "/static/product4.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Product 2",
+        "description": "Pull&Bear Utility Detail Playsuit",
+        "price": 31.45,
+        "img": "/static/product3.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Product 3",
+        "description": "Pull&Bear Aztec Printed Jumpsuit",
+        "price": 54.20,
+        "img": "/static/product2.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Product 1",
+        "description": "Pull&Bear Crochet Back Playsuit",
+        "price": 47.10,
+        "img": "/static/product1.jpg"
+    }
+  ],
+  "featured": [
+    {
+        "id": 1,
+        "title": "Product 1",
+        "description": "Pull&Bear Utility Detail Playsuit",
+        "price": 31.45,
+        "img": "/static/product3.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Product 2",
+        "description": "Pull&Bear Denim Jacket",
+        "price": 77.87,
+        "img": "/static/product4.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Product 3",
+        "description": "Pull&Bear Crochet Back Playsuit",
+        "price": 47.10,
+        "img": "/static/product1.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Product 4",
+        "description": "Pull&Bear Aztec Printed Jumpsuit",
+        "price": 54.20,
+        "img": "/static/product2.jpg"
+    }
+  ]
+}
